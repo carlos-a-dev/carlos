@@ -34,5 +34,10 @@ export default defineNuxtConfig({
         braceStyle: '1tbs'
       }
     }
+  },
+
+  icon: {
+    provider: 'iconify' // Or 'server' if you have a server endpoint for static SPA
+    // ... other icon configurations like customCollections
   }
 })
