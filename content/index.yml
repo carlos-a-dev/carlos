@@ -5,9 +5,6 @@ title: "Hey, I'm Carlos Software Engineer"
 description: "Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects."
 hero:
   links:
-    - label: "See this template on Github"
-      to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
 about:
   title: "About Me"
   description: |

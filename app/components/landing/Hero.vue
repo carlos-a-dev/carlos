@@ -104,10 +104,12 @@ defineProps<{
         }"
       >
         <div
-          v-if="page.hero.links"
           class="flex flex-wrap justify-around items-center gap-2"
         >
-          <UButton v-bind="page.hero.links[0]" />
+          <UButton
+            v-if="page.hero.links"
+            v-bind="page.hero.links[0]"
+          />
           <UButton
             :color="global.available ? 'success' : 'error'"
             variant="ghost"
