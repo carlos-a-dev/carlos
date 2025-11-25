@@ -1,83 +1,68 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Carlos Alvarez - Software Engineer"
+  description: "Welcome to my portfolio! I'm Carlos Alvarez, a software engineer and mechatronics engineer based in Florida. I specialize in eCommerce and robotics."
+title: "Hey, I'm Carlos Software Engineer"
+description: "Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects."
 hero:
   links:
-    - label: "Use this template"
+    - label: "See this template on Github"
       to: https://github.com/nuxt-ui-templates/portfolio
       color: "neutral"
-  images:
-    - src: /hero/random-1.avif
-      alt: Random Image 1
-    - src: /hero/random-2.avif
-      alt: Random Image 2
-    - src: /hero/random-3.avif
-      alt: Random Image 3
-    - src: /hero/random-4.avif
-      alt: Random Image 4
-    - src: /hero/random-5.avif
-      alt: Random Image 5
-    - src: /hero/random-6.avif
-      alt: Random Image 6
-    - src: /hero/random-7.avif
-      alt: Random Image 7
-    - src: /hero/random-8.avif
-      alt: Random Image 8
-    - src: /hero/random-9.avif
-      alt: Random Image 9
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    Results-driven Software Engineer with 10+ years of experience in web development, specializing in Magento and PHP. Proven ability to deliver high-quality eCommerce solutions, optimize workflows, and lead development projects.
+    Skilled in ERP integrations, API development, and full-stack architecture. Committed to continuous learning and staying current with industry trends. Excited to contribute expertise to a dynamic engineering team.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Senior Software Engineer at"
+      date: "Nov 2021 - Jul 2025"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: "Material Bank"
+        logo: "i-simple-icons-magento"
+        url: "https://materialbank.com"
+        color: "#f5d544"
+
+    - position: "Magento Developer at"
+      date: "Apr 2021 - Nov 2021"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: "iRocker SUP"
+        logo: "i-simple-icons-magento"
+        url: "https://irockersup.com"
+        color: "#47a2c3"
+
+    - position: "Software Developer at"
+      date: "Jan 2019 - Mar 2021"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: "Intuitive Reason"
+        logo: "i-simple-icons-symfony"
+        url: "https://www.intuitivereason.com"
+        color: "#f7dc3e"
+
+    - position: "Web Development Manager at"
+      date: "Jul 2015 - Dec 2017"
+      company:
+        name: "Grupo Peña Defilló"
+        logo: "i-simple-icons-php"
+        url: "https://penadefillo.com/"
+        color: "#4F5B93"
+
+    - position: "Embedded Firmware Developer at"
+      date: "Jan 2012 - Jul 2013"
+      company:
+        name: "ESC Group"
+        logo: "i-simple-icons-c"
+        color: "#A8B9CC"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "I had the pleasure of working with Carlos at Intuitive Reason and highly recommend him for any Full Stack or Magento development role. He's an exceptionally skilled and reliable developer who thrives in fast-paced, high-demand environments. After more than twenty-five years collaborating with developers, I can confidently say Carlos stands out among one of the best and is someone I would gladly work with again."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Damon Lutton'
+      description: 'Full-Stack Product Designer | UX/UI & Front-End Developer'
+      to: 'https://www.linkedin.com/in/damonray'
+      target: '_blank'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
-    author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
-      avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
-    author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
-      avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: 'https://media.licdn.com/dms/image/v2/D4D35AQGgggHVY337NQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1629222048130?e=1764522000&v=beta&t=UMOZ75GBFv1kR236beMNOCufEp82gx9xuakm2CbqFzA'
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"

@@ -1,27 +1,30 @@
 title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+description: Learn more about my journey as a Senior Software Engineer, my approach to building reliable eCommerce and backend systems, and the mindset that drives my work.
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  Hi, I'm **Carlos Alvarez**, a Senior Software Engineer based in Saint Johns, Florida. For more than a decade, I've worked across the full spectrum of web development, most recently focusing on Magento, PHP, and large-scale eCommerce architectures.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  My career has taken me from embedded systems and internal tooling to leading major features and international expansions for enterprise-level Magento platforms. Most recently at **Material Bank**, I developed and shipped end-to-end features, architected custom modules, integrated ERPs and third-party APIs, and played a key role in launching the company's Japanese market implementation.
 
-  ### My Design Philosophy
+  ### My Engineering Philosophy
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  I approach software with a mindset centered around **clarity, reliability, and continuous improvement**. Good engineering solves real problems, reduces friction, and scales without drama. Whether I'm building custom Magento modules, improving developer workflows, or integrating complex systems, my goal is always the same: create solutions that make life easier for both users and the teams who maintain them.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  I value clean architecture, thoughtful communication, and processes that empower teams to move quickly without breaking things. I believe great engineering and good leadership come from empathy, curiosity, and the willingness to iterate.
 
   ### What Drives Me
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  I love taking complex problems from performance issues to cross-system integrations and breaking them into simple, maintainable solutions. Seeing a feature go from idea to production, knowing it's stable, scalable, and genuinely useful, is what keeps me motivated.
 
-  ### Beyond the Screen
+  Continuous learning is a big part of who I am. Whether it's mastering new backend patterns, improving CI/CD pipelines, or exploring better ways to serve customers through automation and tooling, I'm always looking for the next challenge that helps me grow.
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  ### Beyond the Code
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  Outside of engineering, I'm a dad, a maker, and someone who's always tinkering, whether it's 3D printing, improving my home server setup, or experimenting with side projects like a minimalistic CRM for solopreneurs or AI-powered assistants for small businesses.
+
+  Thanks for visiting. Feel free to explore my [projects](/projects) or [reach out](/#contact) if you'd like to collaborate or talk shop.
+
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop
+    alt: Workspace
+  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop
+    alt: Travel moment
