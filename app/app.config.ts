@@ -5,7 +5,7 @@ export default defineAppConfig({
       light: '/portrait.jpg',
       alt: 'Carlos Alvarez'
     },
-    meetingLink: 'https://cal.com/',
+    meetingLink: 'https://cal.com/carlos-alvarez',
     email: 'carlos.alexander.dev@gmail.com',
     available: true
   },
