@@ -63,6 +63,7 @@ export default defineContentConfig({
           items: z.array(
             z.object({
               title: z.string(),
+              description: z.string(),
               url: z.string(),
               img: z.string()
             })

@@ -19,12 +19,30 @@ defineProps<{
         v-for="cert in page.certifications.items"
         :key="cert.title"
         :title="cert.title"
-        :to="cert.url"
-        target="_blank"
+        :description="cert.description"
         orientation="horizontal"
         variant="ghost"
         reverse
       >
+        <template #description>
+          <UAccordion
+            :items="[{
+              label: 'Description',
+              content: cert.description
+            }]"
+          />
+        </template>
+
+        <template #footer>
+          <NuxtLink
+            :to="cert.url"
+            target="_blank"
+          >
+            More
+            <UIcon name="i-lucide-external-link" />
+          </NuxtLink>
+        </template>
+
         <NuxtImg
           :src="cert.img"
           class="max-w-xs max-h-30 mx-auto"
